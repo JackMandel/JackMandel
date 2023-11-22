@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JackMandel
-- 👀 I’m interested in Music and Audio information technologies 
-- 🌱 I’m currently learning the BASS library, including the AddOns BASSmix and BASSwasapi
+- 👀 I’m interested in Music and Audio information technologies, but always open for new stuff! 
+- 🌱 I’m currently learning the BASS library, including the AddOns BASSmix and BASSwasapi, and he Medialooks SDK
 - 💞️ I’m looking to collaborate on any JUCE/Audio/DSP plugin/SW/embedded stuff!
 - 📫 How to reach me:
     Email: giaco.gasgas@yahoo.it
